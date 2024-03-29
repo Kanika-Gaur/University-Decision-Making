@@ -10,4 +10,4 @@ The QS World University Rankings dataset, comprising information on 1500+ instit
 preprocessed to remove irrelevant columns such as Logo and Website URL, streamlining the 
 visualization process.
 
-https://public.tableau.com/app/profile/pratik.agarwal2762/viz/project_16696176452240/Dashboard1?publish=yes
+Dashboard Link: https://public.tableau.com/app/profile/pratik.agarwal2762/viz/project_16696176452240/Dashboard1?publish=yes
